@@ -1,1 +1,1 @@
-# ❔ what-is-my-ip-server
+# 🌐 what-is-my-ip-server
