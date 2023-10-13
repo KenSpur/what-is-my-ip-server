@@ -78,4 +78,4 @@ Utilize a simple cURL command to fetch the IP address:
 curl https://[your-deployment-url]/
 ```
 
-Ensure to substitute [your-deployment-url] with the actual URL where what-is-my-ip-server is deployed.
+⚠️ Ensure to substitute [your-deployment-url] with the actual URL where what-is-my-ip-server is deployed.
